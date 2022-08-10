@@ -1,0 +1,41 @@
+
+.heading-two{
+   margin-top: 100px;
+}
+.login{
+   margin: 100px;
+   margin-top: 80px;
+   box-shadow: 10px 10px 30px grey;
+   padding: 40px;
+   border-radius: 10px;
+}
+.form-control{
+   margin-bottom: 15px;
+}
+#transaction {
+   display: none;
+}
+.wrap{
+   box-shadow: 10px 10px 30px grey;
+   margin: 100px;
+   padding: 30px;
+   border-radius: 10px;
+   color: white;
+}
+.deposit{
+   background-color: slateblue;
+}
+.withdraw{
+   background-color: rgba(195, 111, 111, 0.84)
+}
+.balance{
+   background-color: orange;
+}
+.input-main{
+   margin: 0 50px;
+}
+.input-amount{
+   box-shadow: 10px 10px 30px grey;
+   padding: 40px;
+   border-radius: 10px;
+}
